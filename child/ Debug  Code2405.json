@@ -1,0 +1,12 @@
+{
+    "id": "2414",
+    "parent_exercise_id": "2405",
+    "name": " Question 2 ",
+    "slug": "dictionary__DebugCode/question2",
+    "sequence_num": 9002,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\" aapko ek dictionary di gai hai jisme aapko sare key ka sum karna hai. Apko iss code mai dedugging karni or pata karna hai ki aap output 14 kese la sakte ho. \"},{\"type\":\"python\",\"value\":{\"code\":\"dict1={1:2,2:3,3:4,4:5}\\nsum=0\\nfor i in dict1.values():    \\n    sum=sum+1\\nprint(sum)\",\"testCases\":[]}}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question2.md"
+}
